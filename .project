@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>drivers_c674x_c6748</project>
+		<project>system_config_c674x_c6748</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
